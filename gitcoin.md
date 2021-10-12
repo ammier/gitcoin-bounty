@@ -10,7 +10,7 @@ _USD 3,500_
 
 **Welcome!** Thank you for your interest in our Bounty Programme. Please [Join Our Discord Server](https://discord.gg/HJ9YEpgS)
 
-**Background**:  Charged Particles is a protocol that allows users to deposit ERC-20, ERC-721, or ERC-1155 tokens (ANY tokens) into an NFT. A scarce NFT (e.g. Art, Collectible, Virtual Real Estate, In-Game Item, any NFT) can now be transformed into a basket holding a number of other tokens. Charged Particles are Interest-bearing Non-Fungible Tokens (DeFi NFTs) and the amount of interest earned from the token represents the amount of “Charge” that the particle has amassed.
+**Background**: Charged Particles is a protocol that allows users to deposit ERC-20, ERC-721, or ERC-1155 tokens (ANY tokens) into an NFT. A scarce NFT (e.g. Art, Collectible, Virtual Real Estate, In-Game Item, any NFT) can now be transformed into a basket holding a number of other tokens. Charged Particles are Interest-bearing Non-Fungible Tokens (DeFi NFTs) and the amount of interest earned from the token represents the amount of “Charge” that the particle has amassed.
 
 **Context**: In the bid to correlate our Marketing activities and Product changes to user activity, we need to read actionable data to inform our decision making process.  Ideally, we want to be able to track key events and activities that occur on our protocol like when a proton is sold, energized, etc. Below is a list of some key events and activities (**to be updated**).
 
@@ -94,7 +94,7 @@ Please submit
 **Winner Announcement Date**
 
 
-The submission will be reviewed between 18th – 20th of October. The announcements and payouts will occur by 23rd of October.
+The submission will be reviewed between 19th – 20th of October. The announcements and payouts will occur by 23rd of October.
 
 
 
